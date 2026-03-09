@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### 个人逆向学习作品集
+- 某.net组件库 注册码逆向分析
+  https://www.52pojie.cn/thread-1766183-1-1.html
+- 某Excel全栈解决方案 逆向分析【后端组件篇】
+  https://www.52pojie.cn/thread-1771932-1-1.html
+- [.NET]某 尖顶.办公 系列组件 许可证分析
+  https://www.52pojie.cn/thread-1787033-1-1.html
+
 <!--
 **pjy612/pjy612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
