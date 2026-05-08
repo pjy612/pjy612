@@ -8,6 +8,12 @@
 - [.NET]某 尖顶.办公 系列组件 许可证分析
   https://www.52pojie.cn/thread-1787033-1-1.html
 
+<h3>⚡ GitHub Insights</h3>
+
+<div align="left">
+  <img src="https://yourinsights.vercel.app/api/insight?username=pjy612&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
+
 <!--
 **pjy612/pjy612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
